@@ -10,6 +10,15 @@ This project provides a Django-based authentication system with user signup, log
 - [Installation](#installation)
 - [Routes](#routes)
 
+## AWS Deployment
+
+The application is deployed on AWS. You can access it using the following link:
+
+[http://ec2-54-224-57-39.compute-1.amazonaws.com/auth/home](http://ec2-54-224-57-39.compute-1.amazonaws.com/auth/home)
+
+
+
+...
 
 ## Features
 
