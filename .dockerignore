@@ -1,0 +1,10 @@
+# .dockerignore
+
+# Exclude the .env file
+.env
+
+# Exclude Python compiled files
+__pycache__
+*.pyc
+*.pyo
+*.pyd

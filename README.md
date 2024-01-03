@@ -61,8 +61,8 @@ This project provides a Django-based authentication system with user signup, log
 2. Build and run the Docker containers: :
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   docker-compose up
+
    ```
 
 ## Routes
